@@ -1,0 +1,4 @@
+set NODE_OPTIONS=--openssl-legacy-provider
+
+YARN INSTALL 
+YARN START 
